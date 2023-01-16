@@ -144,6 +144,7 @@ height: 580px;
         width: 100%;
   display: grid;
   grid-template-columns: repeat(1.1fr);
+  margin: 0 auto;
   
     }
     .sec1-div1{
